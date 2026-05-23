@@ -58,7 +58,7 @@ This is not a framework. There's no lock-in. Install one skill or all twelve. Th
 **Install all skills:**
 
 ```bash
-curl -sSL https://raw.githubusercontent.com/willjasen/claude-skillcraft/main/scripts/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/ProjectWaja/claude-skillcraft/main/scripts/install.sh | bash
 ```
 
 **Install a single skill:**
@@ -142,4 +142,4 @@ MIT. See [LICENSE](LICENSE).
 
 ---
 
-*Built by [willjasen](https://github.com/willjasen) — PM thinking, engineer execution.*
+*Built by [ProjectWaja](https://github.com/ProjectWaja) — PM thinking, engineer execution.*

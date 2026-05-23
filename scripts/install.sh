@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO="willjasen/claude-skillcraft"
+REPO="ProjectWaja/claude-skillcraft"
 BRANCH="main"
 SKILLS_DIR="${HOME}/.claude/skills"
 TEMP_DIR=$(mktemp -d)
