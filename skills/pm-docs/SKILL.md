@@ -1,6 +1,6 @@
 ---
 name: pm-docs
-description: Generates PM docs — PRDs, one-pagers, decision logs, launch checklists — from conversation and codebase context.
+description: Generates PM docs — PRDs, one-pagers, decision logs, launch checklists. Use when asked to write or structure any of these product documents.
 version: 1.0.0
 author: willjasen
 tags:

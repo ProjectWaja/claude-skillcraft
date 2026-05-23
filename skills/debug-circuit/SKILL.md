@@ -1,6 +1,6 @@
 ---
 name: debug-circuit
-description: Circuit breaker for debug loops — after 3 failed fixes, forces a strategic pause and new approach instead of brute-forcing.
+description: Circuit breaker for debug loops — after 3 failed fixes, forces a strategic pause and new approach. Use when a fix keeps failing or you are retrying the same thing.
 version: 1.0.0
 author: willjasen
 tags:

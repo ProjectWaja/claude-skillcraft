@@ -1,6 +1,6 @@
 ---
 name: memory-curator
-description: Disciplined curation of Claude Code's persistent memory — what to save, how to dedupe, and when to prune stale entries.
+description: Disciplined curation of persistent memory — what to save, dedupe, and prune. Use when saving or pruning memory, or when asked to remember or forget something.
 version: 1.0.0
 author: willjasen
 tags:
