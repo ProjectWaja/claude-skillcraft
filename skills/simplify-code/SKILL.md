@@ -1,6 +1,6 @@
 ---
 name: simplify-code
-description: Reviews code for unnecessary complexity. Flags over-engineering, premature abstractions, dead code, and violations of YAGNI.
+description: Flags unnecessary complexity — over-engineering, premature abstractions, dead code, YAGNI violations.
 version: 1.0.0
 author: willjasen
 tags:

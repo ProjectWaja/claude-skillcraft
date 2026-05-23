@@ -1,6 +1,6 @@
 ---
 name: craft-principles
-description: Enforces core engineering principles — readability, simplicity, testability, and minimal dependencies — in all generated code.
+description: Enforces engineering principles in generated code: readability, simplicity, testability, minimal dependencies.
 version: 1.0.0
 author: willjasen
 tags:

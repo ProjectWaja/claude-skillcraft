@@ -14,9 +14,9 @@ Neither helps you **ship better products faster**.
 
 ## What This Is
 
-Skillcraft is **12 skills in 3 tiers** that work as a cohesive system. Each skill enforces a specific discipline. Together, they form a workflow that moves from planning through execution to delivery — the same loop a good PM/eng hybrid runs daily, automated through Claude Code.
+Skillcraft is **14 skills in 4 tiers** that work as a cohesive system. Each skill enforces a specific discipline. Together, they form a workflow that moves from planning through execution to delivery — the same loop a good PM/eng hybrid runs daily, automated through Claude Code.
 
-This is not a framework. There's no lock-in. Install one skill or all twelve. They compose, they don't depend.
+This is not a framework. There's no lock-in. Install one skill or all fourteen. They compose, they don't depend.
 
 ## Skills
 
@@ -52,6 +52,15 @@ This is not a framework. There's no lock-in. Install one skill or all twelve. Th
 | [`pm-docs`](skills/pm-docs/) | Generates PRDs, one-pagers, decision logs, and launch checklists from conversation context. |
 | [`sprint-flow`](skills/sprint-flow/) | Agile execution discipline: story breakdown, acceptance criteria, sprint planning, retro prompts. |
 | [`meeting-driver`](skills/meeting-driver/) | Structures meetings with agendas, time-boxes, action items, and follow-up tracking. |
+
+### Tier 4 — Efficiency
+
+*Spend context like money. Keep memory lean.*
+
+| Skill | What it enforces |
+|-------|-----------------|
+| [`context-budget`](skills/context-budget/) | Token discipline — scoped searches, targeted reads, summarized output, and subagent delegation for heavy research. |
+| [`memory-curator`](skills/memory-curator/) | Disciplined memory curation — what to save, how to dedupe, and when to prune stale entries. |
 
 ## Quick Start
 

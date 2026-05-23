@@ -1,6 +1,6 @@
 ---
 name: verify-build
-description: Post-implementation verification checklist. Runs a structured review of the build before declaring work complete.
+description: Post-implementation verification checklist run before declaring work complete.
 version: 1.0.0
 author: willjasen
 tags:

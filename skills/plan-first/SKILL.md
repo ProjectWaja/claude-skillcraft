@@ -1,6 +1,6 @@
 ---
 name: plan-first
-description: Enforces planning before code generation. Requires a written plan with requirements, components, and acceptance criteria before any implementation begins.
+description: Requires a written plan — requirements, scope, acceptance criteria — before any implementation begins.
 version: 1.0.0
 author: willjasen
 tags:

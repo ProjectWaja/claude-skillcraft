@@ -1,6 +1,6 @@
 ---
 name: output-guard
-description: Validates generated code against correctness, security, and style rules before presenting it to the user. Acts as a self-review gate.
+description: Self-review gate that validates generated code for correctness, security, and style before presenting it.
 version: 1.0.0
 author: willjasen
 tags:

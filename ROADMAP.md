@@ -4,7 +4,7 @@ Versioned, prioritized. Updated monthly.
 
 ## v1.0 — Foundation (Current)
 
-- [x] 12 core skills across 3 tiers (Workflow, Quality, PM Bridge)
+- [x] 14 skills across 4 tiers (Workflow, Quality, PM Bridge, Efficiency)
 - [x] Official SKILL.md format compliance
 - [x] One-line install script
 - [ ] Demo recordings (plan-first flow, debug-circuit in action)

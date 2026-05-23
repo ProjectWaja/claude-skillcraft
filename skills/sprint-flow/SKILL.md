@@ -1,6 +1,6 @@
 ---
 name: sprint-flow
-description: Agile execution discipline — story breakdown, acceptance criteria, sprint planning, and retrospective prompts for solo developers and small teams.
+description: Agile execution discipline — story breakdown, acceptance criteria, sprint planning, retrospective prompts.
 version: 1.0.0
 author: willjasen
 tags:

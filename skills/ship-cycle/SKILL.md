@@ -1,6 +1,6 @@
 ---
 name: ship-cycle
-description: Enforces a complete development cycle — branch, plan, implement, test, review, commit — with no step skipping. Every feature follows the full loop.
+description: Enforces the full dev cycle — branch, plan, implement, test, review, commit — with no skipped steps.
 version: 1.0.0
 author: willjasen
 tags:

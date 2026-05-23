@@ -1,6 +1,6 @@
 ---
 name: task-resume
-description: Maintains task continuity across Claude Code sessions. Creates structured handoff notes so work picks up exactly where it left off.
+description: Task continuity across sessions via structured handoff notes that capture where work left off.
 version: 1.0.0
 author: willjasen
 tags:

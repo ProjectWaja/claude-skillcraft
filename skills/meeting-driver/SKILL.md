@@ -1,6 +1,6 @@
 ---
 name: meeting-driver
-description: Structures meetings with agendas, time-boxes, action items, and follow-up tracking. Turns unstructured discussions into documented decisions.
+description: Structures meetings with agendas, time-boxes, action items, and follow-up tracking.
 version: 1.0.0
 author: willjasen
 tags:

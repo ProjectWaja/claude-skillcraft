@@ -1,6 +1,6 @@
 ---
 name: clean-commit
-description: Enforces atomic commits with conventional messages, meaningful PR descriptions, and clean git history.
+description: Enforces atomic commits, conventional commit messages, and clean PR and git history.
 version: 1.0.0
 author: willjasen
 tags:
